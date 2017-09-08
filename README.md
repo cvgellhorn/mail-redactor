@@ -2,6 +2,9 @@ mail-redactor
 ===========
 > Fool all the evil mail harvesting bots
 
+# Installation
+    npm install mail-redactor
+
 # Usage
 ``` js
 const mailRedactor = require('mail-redactor');
