@@ -1,0 +1,22 @@
+{
+  "name": "mail-redactor",
+  "version": "1.0.0",
+  "description": "Fool all the evil mail harvesting bots",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://cvgellhorn@github.com/cvgellhorn/mail-redactor.git"
+  },
+  "keywords": [
+    "mail",
+    "redactor",
+    "redact",
+    "harvesting"
+  ],
+  "author": "Christoph von Gellhorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvgellhorn/mail-redactor/issues"
+  },
+  "homepage": "https://github.com/cvgellhorn/mail-redactor#readme"
+}
