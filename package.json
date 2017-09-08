@@ -1,6 +1,6 @@
 {
   "name": "mail-redactor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fool all the evil mail harvesting bots",
   "main": "index.js",
   "repository": {
