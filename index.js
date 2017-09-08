@@ -4,7 +4,7 @@
  * @param {string} mail
  * @returns {string}
  */
-module.export = function(mail) {
+module.exports = function(mail) {
     const mailLetters = mail.split('');
 
     for (let i = 0; i < mailLetters.length; i++) {
