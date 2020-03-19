@@ -1,6 +1,6 @@
 mail-redactor
 ===========
-> Fool all the evil mail harvesting bots
+> Fool all the evil mail harvesting bots by randomly splitting and wrapping mail addresses
 
 # Installation
     npm install mail-redactor
